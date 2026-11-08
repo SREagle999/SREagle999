@@ -89,13 +89,21 @@ def about(c):
 
 # ----------------------------------------------------------------- cards
 CARDS = {
-    "m3": dict(
-        title="M3 Math Modeling",
-        lines=["Heatwave-vulnerability and gambling-risk",
-               "models: ODEs, regression, PCA, Monte Carlo,",
-               "sensitivity analysis. Advanced past Triage."],
-        tags=["Python", "LaTeX"],
-        alt="M3 Math Modeling Challenge: heatwave and gambling-risk models using ODEs, regression, PCA, Monte Carlo, and sensitivity analysis.",
+    "julialab": dict(
+        title="CSAIL Julia Lab",
+        lines=["Mixed-precision SVD and matrix multiplication",
+               "for GPU and massively parallel hardware",
+               "(CUDA, ROCm, oneAPI). Benchmarking suite planned."],
+        tags=["Julia", "C/C++", "CUDA"],
+        alt="CSAIL Julia Lab: mixed-precision SVD and matrix multiplication for GPU and massively parallel hardware.",
+    ),
+    "metalab": dict(
+        title="META Lab, Boriskina Group",
+        lines=["Tensor-prediction models and numerical solvers",
+               "for electromagnetic modes of hyperbolic",
+               "metamaterials. Reusable Python data pipelines."],
+        tags=["Python", "PyTorch", "NumPy"],
+        alt="META Lab, Boriskina Group: tensor-prediction models and numerical solvers for hyperbolic metamaterials.",
     ),
     "nullmap": dict(
         title="nullMap",

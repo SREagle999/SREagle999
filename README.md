@@ -22,7 +22,8 @@
 
 ### Featured
 
-<a href="https://github.com/SREagle999/m3-2026-pv"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-m3-dark.svg"><img alt="M3 Math Modeling Challenge: heatwave and gambling-risk models using ODEs, regression, PCA, Monte Carlo, and sensitivity analysis." src="assets/card-m3-light.svg" width="49%"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-julialab-dark.svg"><img alt="CSAIL Julia Lab: mixed-precision SVD and matrix multiplication for GPU and massively parallel hardware." src="assets/card-julialab-light.svg" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-metalab-dark.svg"><img alt="META Lab, Boriskina Group: tensor-prediction models and numerical solvers for hyperbolic metamaterials." src="assets/card-metalab-light.svg" width="49%"></picture>
 <a href="https://github.com/conrad204/NullMap"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nullmap-dark.svg"><img alt="nullMap: null-results literature review pipeline. 2nd place, HackMIT Elastic Track, team project." src="assets/card-nullmap-light.svg" width="49%"></picture></a>
 
 ### Experience
