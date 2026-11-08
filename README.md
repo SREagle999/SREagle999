@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img alt="gabe@mit: MIT Mathematics with Computing 2030; CSAIL Julia Lab and Boriskina Group research; MIT Satellite Team; Capital One data analyst and engineer." src="assets/about-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img alt="gabe@mit: MIT Mathematics with Computing 2030; CSAIL Julia Lab and Boriskina Group research." src="assets/about-light.svg" width="100%"></picture>
 
 </div>
 
